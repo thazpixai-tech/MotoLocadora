@@ -1,0 +1,6 @@
+{
+  "name": "Locadora de Motocicletas",
+  "description": "Sistema de gestão de locações, estoque, manutenção e relatórios financeiros para locadora de motocicletas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
